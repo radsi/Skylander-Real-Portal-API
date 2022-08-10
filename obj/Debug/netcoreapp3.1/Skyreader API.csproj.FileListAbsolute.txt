@@ -1,0 +1,23 @@
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\Skyreader API.exe
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\Skyreader API.deps.json
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\Skyreader API.runtimeconfig.json
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\Skyreader API.runtimeconfig.dev.json
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\Skyreader API.dll
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\Skyreader API.pdb
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.csproj.AssemblyReference.cache
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.AssemblyInfoInputs.cache
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.AssemblyInfo.cs
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.csproj.CoreCompileInputs.cache
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\staticwebassets\Skyreader API.StaticWebAssets.Manifest.cache
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\staticwebassets\Skyreader API.StaticWebAssets.xml
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Skyreader API.styles.css
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.RazorTargetAssemblyInfo.cache
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.dll
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.pdb
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.genruntimeconfig.cache
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpd88\Desktop\Skyreader API\Skyreader API\obj\Debug\netcoreapp3.1\Skyreader API.csproj.CopyComplete

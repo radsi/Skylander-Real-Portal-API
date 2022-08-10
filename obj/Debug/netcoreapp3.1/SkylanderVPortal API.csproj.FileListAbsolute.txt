@@ -1,0 +1,23 @@
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\SkylanderVPortal API.exe
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\SkylanderVPortal API.deps.json
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\SkylanderVPortal API.runtimeconfig.json
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\SkylanderVPortal API.runtimeconfig.dev.json
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\SkylanderVPortal API.dll
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\SkylanderVPortal API.pdb
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.csproj.AssemblyReference.cache
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.AssemblyInfoInputs.cache
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.AssemblyInfo.cs
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.csproj.CoreCompileInputs.cache
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\staticwebassets\SkylanderVPortal API.StaticWebAssets.Manifest.cache
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\staticwebassets\SkylanderVPortal API.StaticWebAssets.xml
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\scopedcss\bundle\SkylanderVPortal API.styles.css
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.RazorTargetAssemblyInfo.cache
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.csproj.CopyComplete
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.dll
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.pdb
+C:\Users\jpd88\Desktop\Skyreader API\SkylanderVPortal\obj\Debug\netcoreapp3.1\SkylanderVPortal API.genruntimeconfig.cache
