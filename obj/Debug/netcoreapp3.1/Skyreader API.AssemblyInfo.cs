@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Skyreader API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SkylanderRealPortal API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Skyreader API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Skyreader API")]
+[assembly: System.Reflection.AssemblyProductAttribute("SkylanderRealPortal API")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SkylanderRealPortal API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
