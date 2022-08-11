@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>SkylanderVPortal_API</RootNamespace>
+    <RootNamespace>SkylanderRealPortal_API</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
